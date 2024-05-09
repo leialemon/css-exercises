@@ -1,0 +1,19 @@
+.odd{
+    background-color: #F47B7B;
+    font-family: Verdana, "DejaVu Sans", serif;
+}
+
+.odd.tres{
+    font-size: 24px;
+}
+
+#dos{
+    color: #736FF7;
+    font-size: 36px;
+}
+
+#cuatro{
+    background-color: #ADF8A6;
+    font-weight: bold;
+    font-size: 24px;
+}
